@@ -11,6 +11,6 @@
 	
 	unset($foo);
 	
-	echo("$bar"); //²»Ó°Ïì$barµÄÊ¹ÓÃ
+	echo("$bar"); //ä¸å½±å“
 	
 	
